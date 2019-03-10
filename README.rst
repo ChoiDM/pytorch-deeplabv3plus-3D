@@ -1,7 +1,7 @@
 ======================
  Pytorch Deeplabv3+ 3D
 ======================
-3D version of [Deeplabv3+](https://arxiv.org/abs/1802.02611)
+3D version of `Deeplabv3+ <https://arxiv.org/abs/1802.02611>`_
 
 ---------------
 How to use
