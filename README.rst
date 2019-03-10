@@ -6,7 +6,7 @@
 ---------------
 How to use
 ---------------
-.. code-block:: bash
+.. code-block:: python
 
 
    from network.deeplabv3_3d import DeepLabV3_3D
